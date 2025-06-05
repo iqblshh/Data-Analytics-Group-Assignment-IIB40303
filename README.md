@@ -13,7 +13,7 @@ The notebook covers the following aspects of data analytics:
 - Exploratory Data Analysis (EDA)
 - Data visualization
 - Descriptive statistics
-- Basic predictive or clustering analysis (if applicable)
+- Basic predictive
 - Summary and insights
 
 ## 🛠️ Requirements
